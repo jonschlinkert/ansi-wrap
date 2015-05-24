@@ -1,6 +1,6 @@
 {
   "name": "ansi-wrap",
-  "description": "Create ansi colors by passing the open and close codes.",
+  "description": "Create ansi colors by passing open and close codes.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/ansi-wrap",
   "author": {
